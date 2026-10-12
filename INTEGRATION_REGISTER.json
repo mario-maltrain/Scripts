@@ -1,0 +1,16 @@
+{
+  "Classification": "BHP Internal",
+  "IntegrationVersion": "2.1.1",
+  "ApplicationRoot": "C:\\Python\\GeoAi\\01_Aplicacion\\CP09A_Release_v2.1",
+  "InstalledAt": "2026-10-03T00:21:19.6081991-03:00",
+  "Components": [
+    {
+      "Path": "C:\\Python\\GeoAi\\01_Aplicacion\\CP09A_Release_v2.1\\00_Script\\Application_Governance\\Application_Governance_Controls_v1_2_2.ps1",
+      "SHA256": "C5242E7E1C6892505EDD69C5F79C37E3BDFD2E9B679337884A0D03D2A2AEEBDA"
+    },
+    {
+      "Path": "C:\\Python\\GeoAi\\01_Aplicacion\\CP09A_Release_v2.1\\00_Script\\Cross_Export_Comparison\\Cross_Export_Comparison_Engine_v1_0_1.ps1",
+      "SHA256": "F27F46FFC08D4733C595753E6A921CED87AD901685D93FAFDE4B09F1E6B3BBD4"
+    }
+  ]
+}
