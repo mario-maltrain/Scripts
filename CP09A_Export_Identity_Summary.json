@@ -1,0 +1,17 @@
+{
+  "Classification": "Internal",
+  "Version": "1.0.0",
+  "RunId": "CP09A-EXPORT-IDENTITY-20261003-043453",
+  "Mode": "READ_ONLY",
+  "SourceRoot": "C:\\Python\\GeoAi\\00_Base_Datos\\GeoAi\\03_Original_Data_Exports\\01_Processed_Exports\\GEOAI-EXPORTS-20261002-225517",
+  "OutputRoot": "C:\\Python\\GeoAi\\01_Aplicacion\\CP09A_Release_v2.1\\_Test\\Export_Identity_Inventory\\CP09A-EXPORT-IDENTITY-20261003-043453",
+  "ExportCount": 4,
+  "UniqueExportIdCount": 4,
+  "ChronologicalExportCount": 3,
+  "SameDateComponentCount": 1,
+  "SourcesModified": 0,
+  "FilesDeleted": 0,
+  "FilesMoved": 0,
+  "ElapsedSeconds": 5.999,
+  "Decision": "PASS_WITH_PROPOSED_IDENTITIES"
+}

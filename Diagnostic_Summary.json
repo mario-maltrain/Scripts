@@ -1,0 +1,17 @@
+{
+  "Classification": "Internal",
+  "ScriptVersion": "1.0.0",
+  "RunId": "CP09A-ITERATIVE-DIAGNOSTIC-20261003-042433",
+  "Mode": "READ_ONLY_SOURCE_DIAGNOSTIC",
+  "SourceRoot": "C:\\Python\\GeoAi\\00_Base_Datos\\GeoAi\\03_Original_Data_Exports\\01_Processed_Exports\\GEOAI-EXPORTS-20261002-225517",
+  "EvidenceRoot": "C:\\Python\\GeoAi\\01_Aplicacion\\CP09A_Release_v2.1\\_Test\\Iterative_Export_Pipeline\\CP09A-ITERATIVE-DIAGNOSTIC-20261003-042433",
+  "ExportCount": 4,
+  "FileCount": 2630,
+  "ReviewCount": 7,
+  "ZeroByteCount": 4,
+  "HeaderReviewCount": 3,
+  "ElapsedSeconds": 12.022,
+  "SourcesModified": 0,
+  "SpenceModified": 0,
+  "Decision": "REVIEW_REQUIRED"
+}

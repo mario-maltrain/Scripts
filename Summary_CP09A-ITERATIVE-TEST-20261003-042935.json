@@ -1,0 +1,14 @@
+{
+  "Classification": "Internal",
+  "RunId": "CP09A-ITERATIVE-TEST-20261003-042935",
+  "Mode": "AUDIT_ONLY",
+  "PowerShell": "7.6.6",
+  "ArtificialBaseline": "Exports_13_07_2026",
+  "ArtificialBaselineDate": "2026-07-13",
+  "ExportCount": 4,
+  "LatestExport": "Exports_2026-09-28",
+  "SpenceRun": "C:\\Python\\GeoAi\\00_Base_Datos\\GeoAi\\03_Original_Data_Exports\\01_Processed_Exports\\GEOAI-EXPORTS-20261002-225517\\13_Composites\\01_SPENCE\\CP09A-SPENCE-COMPOSITE-20261003-025200",
+  "SpenceFingerprint": "8E11C51BBCE1FDA85C7DFFE90FF98D277A867CE89DB821DA227E66519166C51B",
+  "TotalElapsedSeconds": 18.798,
+  "Decision": "PASS"
+}

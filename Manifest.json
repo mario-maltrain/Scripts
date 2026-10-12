@@ -1,0 +1,27 @@
+{
+  "Classification": "BHP Internal",
+  "RunnerVersion": "1.0.0",
+  "RunnerRunId": "CP09A-STEP12-20261003-002644",
+  "Files": [
+    {
+      "Name": "Step12_Console.log",
+      "Length": 2624,
+      "SHA256": "11617CBF3012197E06DD535DD86AB4EE1E75937FE86DD22C1FF03343D0E688C5"
+    },
+    {
+      "Name": "Step12_Errors.log",
+      "Length": 346,
+      "SHA256": "83B1FEAAB80429CA390C4B170C836503020983D5A517B041456D5ADC4585FEBA"
+    },
+    {
+      "Name": "Step12_Status.csv",
+      "Length": 984,
+      "SHA256": "611B44A29D72BC06C0CEEE8E14E47393149C356FB20B68A80010FEBDFA9064C5"
+    },
+    {
+      "Name": "Step12_Status.json",
+      "Length": 446,
+      "SHA256": "41C63C9D0A5B668B7D1CD38223C1765743CF4507459C1D8565637365FF872185"
+    }
+  ]
+}

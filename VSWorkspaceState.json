@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\00_Base_Datos",
+    "\\00_Base_Datos\\GeoAi",
+    "\\01_Aplicacion",
+    "\\01_Aplicacion\\CP09A_Release_v2.1",
+    "\\01_Aplicacion\\CP09A_Release_v2.1\\00_Script",
+    "\\01_Aplicacion\\CP09A_Release_v2.1\\00_Script\\GeoAI_Composites",
+    "\\01_Aplicacion\\CP09A_Release_v2.1\\__pycache__",
+    "\\_Discovery",
+    "\\_Discovery\\GEOAI-DISCOVERY-20261001-112158"
+  ],
+  "SelectedNode": "\\01_Aplicacion\\CP09A_Release_v2.1\\00_Script\\GeoAI_Composites\\Composite_CP09A_GeoAI_1m_3m_6m_v1_0_0.ps1",
+  "PreviewInSolutionExplorer": false
+}

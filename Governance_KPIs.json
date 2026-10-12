@@ -1,0 +1,18 @@
+{
+  "Files": 52,
+  "Folders": 195,
+  "CodeAndConfig": 12,
+  "DependencyEdges": 67,
+  "RuntimeDependencies": 35,
+  "ManifestArtifacts": 5,
+  "HashRegisters": 7,
+  "ExactDuplicateGroups": 6,
+  "OrphanAssets": 10,
+  "ReferencedCoveragePct": 55.77,
+  "ManifestCoveragePct": 0.0,
+  "HashCoveragePct": 71.15,
+  "OrphanRatePct": 19.23,
+  "P0Risks": 4,
+  "P1Risks": 25,
+  "P2Risks": 6
+}

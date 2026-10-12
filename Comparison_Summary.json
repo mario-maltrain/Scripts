@@ -1,0 +1,17 @@
+{
+  "Classification": "BHP Internal",
+  "Version": "1.0.1",
+  "RunId": "CROSS-EXPORT-COMPARE-20261003-002848",
+  "PipelineRunId": "GEOAI-EXPORTS-20261002-225517",
+  "BaselineExportId": "Exports_2026-09-26",
+  "CandidateExportId": "Exports_2026-09-28",
+  "AbsoluteTolerance": 1E-06,
+  "BaselineFiles": 10,
+  "CandidateFiles": 10,
+  "PairedFiles": 7,
+  "PairingExceptions": 6,
+  "ReviewResults": 6,
+  "WorkloadClass": "SMALL",
+  "Decision": "NO_GO",
+  "CompletedAt": "2026-10-03T00:31:04.4826140-03:00"
+}

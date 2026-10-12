@@ -1,0 +1,13 @@
+{
+  "Classification": "BHP Internal",
+  "RunnerVersion": "1.0.0",
+  "RunnerRunId": "CP09A-STEP12-20261003-002644",
+  "PipelineRunId": "GEOAI-EXPORTS-20261002-225517",
+  "OperationalStatus": "CRITICAL_ERROR",
+  "CriticalFailure": true,
+  "Error": "Critical Step 12 result: NO_GO",
+  "StartedAt": "2026-10-03T00:26:44.4984802-03:00",
+  "CompletedAt": "2026-10-03T00:28:38.1994936-03:00",
+  "ElapsedSeconds": 113.701,
+  "ExitCode": 1
+}

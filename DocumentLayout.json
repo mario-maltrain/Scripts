@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Python\\GeoAi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Python\\GeoAi\\01_Aplicacion\\CP09A_Release_v2.1\\00_Script\\GeoAI_Composites\\Composite_CP09A_GeoAI_1m_3m_6m_v1_0_0.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:01_Aplicacion\\CP09A_Release_v2.1\\00_Script\\GeoAI_Composites\\Composite_CP09A_GeoAI_1m_3m_6m_v1_0_0.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Composite_CP09A_GeoAI_1m_3m_6m_v1_0_0.ps1",
+              "DocumentMoniker": "C:\\Python\\GeoAi\\01_Aplicacion\\CP09A_Release_v2.1\\00_Script\\GeoAI_Composites\\Composite_CP09A_GeoAI_1m_3m_6m_v1_0_0.ps1",
+              "RelativeDocumentMoniker": "01_Aplicacion\\CP09A_Release_v2.1\\00_Script\\GeoAI_Composites\\Composite_CP09A_GeoAI_1m_3m_6m_v1_0_0.ps1",
+              "ToolTip": "C:\\Python\\GeoAi\\01_Aplicacion\\CP09A_Release_v2.1\\00_Script\\GeoAI_Composites\\Composite_CP09A_GeoAI_1m_3m_6m_v1_0_0.ps1",
+              "RelativeToolTip": "01_Aplicacion\\CP09A_Release_v2.1\\00_Script\\GeoAI_Composites\\Composite_CP09A_GeoAI_1m_3m_6m_v1_0_0.ps1",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAUwBMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-12T16:53:36.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

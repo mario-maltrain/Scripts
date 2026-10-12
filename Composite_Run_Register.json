@@ -1,0 +1,29 @@
+{
+  "Classification": "Internal",
+  "Script": "Initialize_CP09A_Composite_Run_v1_0_1.ps1",
+  "Version": "1.0.1",
+  "Pipeline": "CP09A",
+  "Step": "13_Composites",
+  "PipelineRunId": "GEOAI-EXPORTS-20261002-225517",
+  "CompositeRunId": "CP09A-COMPOSITE-20261003-011732",
+  "AuditOnly": false,
+  "SourceRoot": "C:\\Python\\GeoAi\\00_Base_Datos\\GeoAi\\03_Original_Data_Exports\\01_Processed_Exports\\GEOAI-EXPORTS-20261002-225517",
+  "OutputRoot": "C:\\Python\\GeoAi\\00_Base_Datos\\GeoAi\\03_Original_Data_Exports\\01_Processed_Exports\\GEOAI-EXPORTS-20261002-225517\\13_Composites",
+  "AuthoritativeSources": [
+    "SPENCE_MASTER",
+    "LAS_LEP",
+    "LEP_CONFIDENCE",
+    "AUTOLITH_CONFIDENCE"
+  ],
+  "Scales": [
+    "1m",
+    "3m",
+    "6m"
+  ],
+  "ExpectedJobs": 12,
+  "PlannedJobs": 12,
+  "BlockingSources": 3,
+  "Status": "REQUIRES_VALIDATION",
+  "SourceModified": false,
+  "CreatedAt": "2026-10-03T01:17:33.3305554-03:00"
+}

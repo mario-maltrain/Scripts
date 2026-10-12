@@ -1,0 +1,16 @@
+{
+  "Classification": "Internal",
+  "Version": "1.0.0",
+  "RunId": "CP09A-EXPORT-EXACT-IDENTITY-20261003-043845",
+  "Mode": "READ_ONLY_EXACT_IDENTITY",
+  "DiscoveredExportFolders": 4,
+  "IndependentExports": 3,
+  "EmbeddedExportViews": 1,
+  "IdenticalIndependentExportsSkipped": 0,
+  "AcceptedIndependentExports": 3,
+  "SourcesModified": 0,
+  "FilesMoved": 0,
+  "FilesDeleted": 0,
+  "ElapsedSeconds": 5.831,
+  "Decision": "PASS_WITH_EXACT_IDENTITY_SEQUENCE"
+}

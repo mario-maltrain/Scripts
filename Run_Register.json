@@ -1,0 +1,21 @@
+{
+  "Classification": "Internal",
+  "ScriptName": "Convert_CP09A_AutoLith_LAS_To_CSV_v1_0_0.ps1",
+  "ScriptVersion": "1.0.0",
+  "RunId": "CP09A-AUTOLITH-CSV-20261003-014427",
+  "StagingRoot": "C:\\Python\\GeoAi\\00_Base_Datos\\GeoAi\\03_Original_Data_Exports\\01_Processed_Exports\\GEOAI-EXPORTS-20261002-225517\\13_Composites\\AUTOLITH-LAS-STAGING-20261003-013700",
+  "OutputRoot": "C:\\Python\\GeoAi\\00_Base_Datos\\GeoAi\\03_Original_Data_Exports\\01_Processed_Exports\\GEOAI-EXPORTS-20261002-225517\\13_Composites\\CP09A-AUTOLITH-CSV-20261003-014427",
+  "CsvFolder": "C:\\Python\\GeoAi\\00_Base_Datos\\GeoAi\\03_Original_Data_Exports\\01_Processed_Exports\\GEOAI-EXPORTS-20261002-225517\\13_Composites\\CP09A-AUTOLITH-CSV-20261003-014427\\CSV",
+  "LasFiles": 150,
+  "ExpectedFiles": 150,
+  "OutputCsvFiles": 150,
+  "DataRows": 1263673,
+  "NullCells": 1427028,
+  "OutputColumns": "HOLE_ID,DEPT,ABX1_PROB,ABX2_PROB,QFP1_PROB,QFP2_PROB,IND_PROB,H-CONFIDENCE",
+  "NullPolicy": "LAS NULL value written as empty cell",
+  "Normalization": false,
+  "Rounding": false,
+  "SourceModified": false,
+  "Decision": "PASS",
+  "CreatedAt": "2026-10-03T01:44:44.2651949-03:00"
+}
